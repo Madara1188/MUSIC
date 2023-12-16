@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/SAIFDEAD/MUSIC/stargazers"><img src="https://img.shields.io/github/stars/SAIFDEAD/MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/SAIFDEAD/MUSIC/network/members"> <img src="https://img.shields.io/github/forks/SAIFDEAD/MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/SAIFDEAD/MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/MADARA1188/MUSIC/stargazers"><img src="https://img.shields.io/github/stars/MADARA1188/MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/MADARA1188/MUSIC/network/members"> <img src="https://img.shields.io/github/forks/MADARA1188/MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/MADARA1188/MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/SAIFDEAD/MUSIC/commits/SAIFDEAD"> <img src="https://img.shields.io/github/last-commits/SAIFDEAD/MUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/MADARA1188/MUSIC/commits/MADARA1188"> <img src="https://img.shields.io/github/last-commits/MADARA1188/MUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -22,13 +22,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SAIFDEAD/MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MADARA1188/MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/SAIFDEAD/MUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/MADARA1188/MUSIC/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -61,11 +61,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/SAIFHELPGC"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/CODEX_MADARA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/DE1DSTORE"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/TEAM_DST"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
