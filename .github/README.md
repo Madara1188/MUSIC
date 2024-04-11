@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 𝙹𝙸𝚈𝙰 ダ 𝙼𝚄𝚂𝙸𝙲 」──
+    ──「 𝚆𝚈𝙽𝙺 ダ 𝙼𝚄𝚂𝙸𝙲 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/6254678030a1973a41e2e.jpg">
+  <img src="https://telegra.ph/file/9051254d22f7a9eab9505.jpg">
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/CODEX_MADARA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/DST_KA_PAPA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
