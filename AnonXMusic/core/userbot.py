@@ -72,7 +72,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.one.join_chat("DST_BOT_UPDATES")
+                await self.one.join_chat("Wynk_Music_Updates")
                 await self.one.join_chat("TEAM_DST")
             except:
                 pass
@@ -93,7 +93,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.one.join_chat("DST_BOT_UPDATES")
+                await self.one.join_chat("Wynk_Music_Updates")
                 await self.one.join_chat("TEAM_DST")
             except:
                 pass
@@ -115,7 +115,7 @@ class Userbot(Client):
             await self.four.start()
             try:
                
-                await self.one.join_chat("DST_BOT_UPDATES")
+                await self.one.join_chat("Wynk_Music_Updates")
                 await self.one.join_chat("TEAM_DST")
             except:
                 pass
@@ -137,7 +137,7 @@ class Userbot(Client):
             await self.five.start()
             try:
                 
-                await self.one.join_chat("DST_BOT_UPDATES")
+                await self.one.join_chat("Wynk_Music_Updates")
                 await self.one.join_chat("TEAM_DST")
             except:
                 pass
